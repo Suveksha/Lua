@@ -1,0 +1,1 @@
+Welcome to Lua File Handling!Hello I am appended.
